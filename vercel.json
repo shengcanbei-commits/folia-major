@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://your-api-project.vercel.app/:path*"
+      "destination": "https://api-enhanced-xi-gules.vercel.app//:path*"
     }
   ]
 }
