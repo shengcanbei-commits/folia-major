@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://api.scsysbcn.dpdns.org/:path*"
+      "destination": "https://your-api-project.vercel.app/:path*"
     }
   ]
 }
